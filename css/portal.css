@@ -3,26 +3,26 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color:aqua;
+    font-family: Cursive;
     font-size: 0.95em;
     line-height: 1.5em;
 }
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background:white;
 }
 
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background:  rgb(178, 98, 185);
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color: white;
+    background-color:white;
     overflow: auto;
 }
 
@@ -85,6 +85,8 @@ footer {
     h1 {
         width: 89%;
         padding-left: 1%;
+        font-size: 5em;
+
     }
     
     picture.profile img {
